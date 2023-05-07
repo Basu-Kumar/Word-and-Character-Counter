@@ -1,0 +1,26 @@
+body{
+    padding: 100px 300px;
+
+}
+
+h1{
+    padding: 10px;
+    background-color: bisque;
+    text-align: center;
+    color:cornflowerblue;
+    margin: 0;
+}
+
+#textbox{
+    width: 99.2%;
+    border: 1px solid bisque;
+}
+
+p{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    height: 50px;
+    border: 2px solid beige;
+}
