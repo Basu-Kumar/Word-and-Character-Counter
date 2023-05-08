@@ -5,22 +5,23 @@ body{
 
 h1{
     padding: 10px;
-    background-color: bisque;
+    background-color: rgb(66, 71, 207);
     text-align: center;
-    color:cornflowerblue;
-    margin: 0;
+    color:bisque;
+    margin:0px;
 }
 
 #textbox{
     width: 99.2%;
-    border: 1px solid bisque;
+    border: 1px solid rgb(66, 71, 207)
 }
 
 p{  
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: bisque;
+    background-color: blueviolet;
     height: 50px;
-    border: 2px solid beige;
+    font-size: 30px;
+    border: 2px solid rgb(66, 71, 207)
 }
